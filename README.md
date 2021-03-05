@@ -1,8 +1,8 @@
 # Facial-Recognition
 
 ## [Face Recognition in Images](ImgFaceFinder.py)
-1. Insert an Image of the individual to encode their facial shapes
-2. Insert new image to find the same individual out of the n number of people in the image. 
+1. Insert the name of the individual to be recognized. 
+2. Insert new image to find the same individual out of the n number of people in the new inserted image. 
 3. The matched face will have green bounding box around the face. 
 4. The un-matcherd face/faces will have red bounding box around the face. 
 

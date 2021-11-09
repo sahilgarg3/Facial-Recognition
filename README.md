@@ -67,8 +67,8 @@ The matched face/faces will have green bounding box around the face whereas the 
 ---
 
 1. Insert the image/images of the individuals to find their facial encodings.
-  - Similar to earlier one
-3. Through webcam or any number of camera attached, detected all of the faces.
-4. Every detected face will be compared to the encodings of the faces inserted in step one.
-5. Recognized faces will retun the name of the person and Unrecognized faces will be return Unknown.
-6. Each and Every unique face will be inserted in the Attendence.csv file, as the Name of the individual and the time at which his/her face recognized. 
+    - Similar to earlier one
+2. Through webcam or any number of camera attached, detected all of the faces.
+3. Every detected face will be compared to the encodings of the faces inserted in step one.
+4. Recognized faces will retun the name of the person and Unrecognized faces will be return Unknown.
+5. Each and Every unique face will be inserted in the Attendence.csv file, as the Name of the individual and the time at which his/her face recognized. 
